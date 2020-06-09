@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">appFixacao</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Busca">Busca</string>
+    <string name="Email">Email</string>
+    <string name="Ligar">Ligar</string>
+    <string name="lblNum">Digite o numero:</string>
+    <string name="hintNum">Numero</string>
+    <string name="busca">Pesquisar</string>
+    <string name="lblBusca">Digite o que voce quer pesquisar</string>
+    <string name="pesq">Pesquisa</string>
+    <string name="lblEmailTo">Enviar para:</string>
+    <string name="lblSubject">Assunto do email: </string>
+    <string name="lblBody">Texto do email: </string>
+    <string name="hintEmailTo">Email do remetente</string>
+    <string name="hintSubject">Assunto</string>
+    <string name="hintBody">Texto</string>
+    <string name="btnSend">Enviar</string>
+    <string name="emailText">Enviar email</string>
+</resources>
